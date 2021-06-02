@@ -2,7 +2,7 @@
 
 ## Platform requirement
 
-- Ubuntu 18.04-LTS 64-bits
+- Ubuntu 18.04-LTS or Ubuntu 20.04 64-bits
 - A machine with an Intel processor
 - For RHEL8 support, please see [ExperimentalSupportRHEL8.md](ExperimentalSupportRHEL8.md).
 
